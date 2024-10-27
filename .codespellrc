@@ -1,0 +1,5 @@
+# .codespellrc
+
+[codespell]
+ignore-words-list:
+  - .github/linters/codespell.txt
