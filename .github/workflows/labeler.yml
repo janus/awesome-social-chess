@@ -1,5 +1,4 @@
-# .github/workflows/labeler.yml
-
+---
 name: "Pull Request Labeler"
 
 on:
